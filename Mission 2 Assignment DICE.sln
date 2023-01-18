@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mission 2 Assignment DICE", "Mission 2 Assignment DICE.csproj", "{221613E7-2559-4A31-8092-1799015CCF68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{221613E7-2559-4A31-8092-1799015CCF68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221613E7-2559-4A31-8092-1799015CCF68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221613E7-2559-4A31-8092-1799015CCF68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221613E7-2559-4A31-8092-1799015CCF68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24F9D47B-43CC-40B9-815C-6F3D440A4195}
+	EndGlobalSection
+EndGlobal
